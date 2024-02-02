@@ -42,5 +42,14 @@ To run this application, you will need to install the following R packages:
 - shinyWidgets
 - maps
 
-You can install these packages using the following R command:
+
+## Running the App
+
+To run the app locally, use the `runApp("scouting-app")` command in your R interpreter, or execute it inside the `app.R` file in RStudio.
+
+Alternatively, visit the hosted version of the app at: [https://kasperlange.shinyapps.io/scouting-app/](https://kasperlange.shinyapps.io/scouting-app/)
+
+## License
+
+This project is open-source and available under the MIT License.
 
