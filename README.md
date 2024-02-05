@@ -49,7 +49,4 @@ To run the app locally, use the `runApp("scouting-app")` command in your R inter
 
 Alternatively, visit the hosted version of the app at: [https://kasperlange.shinyapps.io/scouting-app/](https://kasperlange.shinyapps.io/scouting-app/)
 
-## License
-
-This project is open-source and available under the MIT License.
 
